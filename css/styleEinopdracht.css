@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Metal+Mania');
+
+body{
+    
+    font-family: 'Metal Mania', cursive;
+    background-image: url("../img/dood.jpg");
+    background-size: 100%;
+}
+
+#typ{
+    
+    text-align: center;
+    padding-top: 20px;
+    font-size: 2em;
+    
+}
+
+h1{
+    font-family: 'Metal Mania', cursive;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 5em;
+    color: white;
+}
+
+form{
+    font-family: 'Metal Mania', cursive;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 50px;
+}
+
+input[type = text]{
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 0 15px;
+    font-size: 30px;
+    background-color: white;
+    color: red;
+    text-align: center;
+    font-family: 'Metal Mania', cursive;
+}
+
+input[type = submit]{
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: red;
+    padding: 7px;
+    font-size: 25px;
+    font-family: 'Metal Mania', cursive;
+} 
+
+h2{
+    color: white;
+    text-align: center;
+    
+}
+
+h3{
+    color: red;
+    text-align: center;
+    font-size: 2em;
+}
