@@ -1,7 +1,7 @@
 # heavy-metal-hangman
 :skull:Old hangman game i made 2 years ago:skull:
 
-[![Image from Gyazo](https://i.gyazo.com/0675c87cc7ca9a7cd8577b094d2d9687.gif)](https://gyazo.com/0675c87cc7ca9a7cd8577b094d2d9687)
+[![Image from Gyazo](https://i.gyazo.com/0675c87cc7ca9a7cd8577b094d2d9687.gif)]
 
 How does it work?
 
